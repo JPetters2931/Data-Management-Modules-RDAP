@@ -7,3 +7,4 @@
 7. Dataset licensing and reuse
 8. Increasing your schilarly impact by improving your data management strategy
 9. Archives, repositories, and your data
+10. Browbeating and blackmailing researchers into sharing their data
